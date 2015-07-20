@@ -1,0 +1,1 @@
+sqlplus ikb_no/ikb_no@DMGLPR @get_report_windows_query 1
