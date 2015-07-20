@@ -1,0 +1,1 @@
+teest=$(cat test.sh) ; echo ${#teest}
